@@ -1,0 +1,9 @@
+name: AFKPlugin
+version: '${project.version}'
+main: me.zivush.afkplugin.AFKPlugin
+api-version: '1.20'
+commands:
+  afk:
+    description: Toggle AFK status
+    usage: /<command>
+

@@ -1,0 +1,15 @@
+# Time in seconds before a player is automatically marked as AFK
+afk_time: 300
+
+# Title displayed when a player goes AFK
+afk_title: '&6You are now AFK'
+
+# Subtitle displayed when a player goes AFK
+afk_subtitle: '&7Use /afk to toggle'
+
+# Title displayed when a player returns from AFK
+not_afk_title: '&aWelcome back!'
+
+# Subtitle displayed when a player returns from AFK
+not_afk_subtitle: '&7You are no longer AFK'
+
